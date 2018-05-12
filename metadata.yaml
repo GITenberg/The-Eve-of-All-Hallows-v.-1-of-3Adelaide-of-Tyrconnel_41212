@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41073'
     url: http://www.gutenberg.org/2009/agents/41073
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41212#The-Eve-of-All-Hallows-v.-1-of-3Adelaide-of-Tyrconnel
 gutenberg_issued: '2012-11-01'
 gutenberg_type: Text
 identifiers:
